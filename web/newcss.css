@@ -1,0 +1,22 @@
+/* 
+    Document   : newcss
+    Created on : Oct 6, 2012, 1:39:19 PM
+    Author     : Parvaneh
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.hidden{
+    display : none;
+}
+.stop-scrolling {
+  height: 100%;
+  overflow: hidden;
+}
+* {cursor: none;}
+
+body { margin-top: 0px; margin-right: 5px; margin-bottom:5px; margin-left: 0px; }
